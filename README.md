@@ -7,3 +7,5 @@ To have your express template running just:
  2. `npm install`
  3. `node index.js`
  4. `curl localhost:3000`
+
+Rodrigo Asensio [@rasensio](http://twitter.com/rasensio).
